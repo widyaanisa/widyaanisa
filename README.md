@@ -1,6 +1,6 @@
 ## Hi there 👋 i'm Widy
 
-  <img src="https://giphy.com/embed/P9TZkuFL9Tx1yhe8SS](https://giphy.com/stickers/kawaii-ai-aiandaiko-P9TZkuFL9Tx1yhe8SS">
+  I'm a UI/UX Designer & Front-End Developer working remotely from Jakarta, Indonesia.
 
 <!--
 **widyaanisa/widyaanisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
