@@ -1,5 +1,6 @@
 ## Hi there 👋 i'm Widy
 
+<img src=”<iframe src="https://giphy.com/embed/P9TZkuFL9Tx1yhe8SS" width="403" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/kawaii-ai-aiandaiko-P9TZkuFL9Tx1yhe8SS">via GIPHY</a></p>”>
 <!--
 **widyaanisa/widyaanisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
