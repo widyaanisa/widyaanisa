@@ -1,7 +1,6 @@
 ## Hi there 👋 i'm Widy
 
-<div style="width:100%;height:0;padding-bottom:119%;position:relative;">
-  <img src="https://giphy.com/embed/P9TZkuFL9Tx1yhe8SS"></img></div>
+  <img src="https://giphy.com/embed/P9TZkuFL9Tx1yhe8SS"></img>
 
 <!--
 **widyaanisa/widyaanisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
