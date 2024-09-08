@@ -1,6 +1,6 @@
 ## Hi there 👋 i'm Widy
 
-  I'm a UI/UX Designer & Front-End Developer working remotely from Jakarta, Indonesia.
+  I'm a UI/UX Designer & Front-End Developer working remotely from Banjarbaru, Indonesia.
 
 <!--
 **widyaanisa/widyaanisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
